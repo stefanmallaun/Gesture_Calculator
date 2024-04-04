@@ -42,5 +42,5 @@ Open your browser and navigate to http://localhost:8080 to view the application.
 - This project is inspired by the [Nukemap website](https://nuclearsecrecy.com/nukemap/) by Alex Wellerstein.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/stefanmallaun/vue_js_nukemap/blob/main/LICENSE) file for details.
 
