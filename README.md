@@ -17,7 +17,7 @@ The Nukemap Clone allows users to simulate nuclear explosions on a map by select
 
 ```bash
 # Clone the repository
-git clone https://github.com/stefanmallaun/nukemap-clone.git
+git clone [https://github.com/stefanmallaun/nukemap-clone.git](https://github.com/stefanmallaun/vue_js_nukemap.git)
 
 # Install dependencies
 npm install
